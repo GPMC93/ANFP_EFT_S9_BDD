@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ANFP_EFT_GiovM" id="04988DAE-0444-857E-728E-D8A9F3DC4ECA" version="3.5">
+<createdBy>Giova</createdBy>
+<createdTime>2026-10-08 00:13:34 UTC</createdTime>
+<ownerDesignName>ANFP_EFT_GiovM</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>04988DAE-0444-857E-728E-D8A9F3DC4ECA</designId>
+</OSDM_Design>
